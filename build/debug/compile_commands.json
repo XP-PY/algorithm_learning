@@ -1,0 +1,56 @@
+[
+{
+  "directory": "/home/x-p/ModelZoo/Yuel_Workspace/algorithm/build/debug",
+  "command": "/usr/bin/c++ -g -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles/backtracking.dir/src/backtracking.cpp.o -c /home/x-p/ModelZoo/Yuel_Workspace/algorithm/src/backtracking.cpp",
+  "file": "/home/x-p/ModelZoo/Yuel_Workspace/algorithm/src/backtracking.cpp",
+  "output": "CMakeFiles/backtracking.dir/src/backtracking.cpp.o"
+},
+{
+  "directory": "/home/x-p/ModelZoo/Yuel_Workspace/algorithm/build/debug",
+  "command": "/usr/bin/c++ -g -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles/binary_search.dir/src/binary_search.cpp.o -c /home/x-p/ModelZoo/Yuel_Workspace/algorithm/src/binary_search.cpp",
+  "file": "/home/x-p/ModelZoo/Yuel_Workspace/algorithm/src/binary_search.cpp",
+  "output": "CMakeFiles/binary_search.dir/src/binary_search.cpp.o"
+},
+{
+  "directory": "/home/x-p/ModelZoo/Yuel_Workspace/algorithm/build/debug",
+  "command": "/usr/bin/c++ -g -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles/foundations_arrays.dir/src/foundations_arrays.cpp.o -c /home/x-p/ModelZoo/Yuel_Workspace/algorithm/src/foundations_arrays.cpp",
+  "file": "/home/x-p/ModelZoo/Yuel_Workspace/algorithm/src/foundations_arrays.cpp",
+  "output": "CMakeFiles/foundations_arrays.dir/src/foundations_arrays.cpp.o"
+},
+{
+  "directory": "/home/x-p/ModelZoo/Yuel_Workspace/algorithm/build/debug",
+  "command": "/usr/bin/c++ -g -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles/hash_string_sort.dir/src/hash_string_sort.cpp.o -c /home/x-p/ModelZoo/Yuel_Workspace/algorithm/src/hash_string_sort.cpp",
+  "file": "/home/x-p/ModelZoo/Yuel_Workspace/algorithm/src/hash_string_sort.cpp",
+  "output": "CMakeFiles/hash_string_sort.dir/src/hash_string_sort.cpp.o"
+},
+{
+  "directory": "/home/x-p/ModelZoo/Yuel_Workspace/algorithm/build/debug",
+  "command": "/usr/bin/c++ -g -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles/linked_list_recursion.dir/src/linked_list_recursion.cpp.o -c /home/x-p/ModelZoo/Yuel_Workspace/algorithm/src/linked_list_recursion.cpp",
+  "file": "/home/x-p/ModelZoo/Yuel_Workspace/algorithm/src/linked_list_recursion.cpp",
+  "output": "CMakeFiles/linked_list_recursion.dir/src/linked_list_recursion.cpp.o"
+},
+{
+  "directory": "/home/x-p/ModelZoo/Yuel_Workspace/algorithm/build/debug",
+  "command": "/usr/bin/c++ -g -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles/prefix_sum_difference.dir/src/prefix_sum_difference.cpp.o -c /home/x-p/ModelZoo/Yuel_Workspace/algorithm/src/prefix_sum_difference.cpp",
+  "file": "/home/x-p/ModelZoo/Yuel_Workspace/algorithm/src/prefix_sum_difference.cpp",
+  "output": "CMakeFiles/prefix_sum_difference.dir/src/prefix_sum_difference.cpp.o"
+},
+{
+  "directory": "/home/x-p/ModelZoo/Yuel_Workspace/algorithm/build/debug",
+  "command": "/usr/bin/c++ -g -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles/stack_queue_monotonic.dir/src/stack_queue_monotonic.cpp.o -c /home/x-p/ModelZoo/Yuel_Workspace/algorithm/src/stack_queue_monotonic.cpp",
+  "file": "/home/x-p/ModelZoo/Yuel_Workspace/algorithm/src/stack_queue_monotonic.cpp",
+  "output": "CMakeFiles/stack_queue_monotonic.dir/src/stack_queue_monotonic.cpp.o"
+},
+{
+  "directory": "/home/x-p/ModelZoo/Yuel_Workspace/algorithm/build/debug",
+  "command": "/usr/bin/c++ -g -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles/tree_bst_heap.dir/src/tree_bst_heap.cpp.o -c /home/x-p/ModelZoo/Yuel_Workspace/algorithm/src/tree_bst_heap.cpp",
+  "file": "/home/x-p/ModelZoo/Yuel_Workspace/algorithm/src/tree_bst_heap.cpp",
+  "output": "CMakeFiles/tree_bst_heap.dir/src/tree_bst_heap.cpp.o"
+},
+{
+  "directory": "/home/x-p/ModelZoo/Yuel_Workspace/algorithm/build/debug",
+  "command": "/usr/bin/c++ -g -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles/two_pointers_sliding_window.dir/src/two_pointers_sliding_window.cpp.o -c /home/x-p/ModelZoo/Yuel_Workspace/algorithm/src/two_pointers_sliding_window.cpp",
+  "file": "/home/x-p/ModelZoo/Yuel_Workspace/algorithm/src/two_pointers_sliding_window.cpp",
+  "output": "CMakeFiles/two_pointers_sliding_window.dir/src/two_pointers_sliding_window.cpp.o"
+}
+]
