@@ -154,11 +154,11 @@ If yes, linked-list, recursion, or divide-and-conquer thinking is probably neede
 
 Suggested order:
 
-1. `Reverse Linked List` (206)
-2. `Linked List Cycle` (141)
-3. `Merge Two Sorted Lists` (21)
-4. `Pow(x, n)` (50)
-5. `Sort List` (148)
+1. `Reverse Linked List` (206) [[link]](https://leetcode.com/submissions/detail/2006860173/)
+2. `Linked List Cycle` (141) [[link]](https://leetcode.com/submissions/detail/2006865581/)
+3. `Merge Two Sorted Lists` (21) [[link]](https://leetcode.com/submissions/detail/2006871785/)
+4. `Pow(x, n)` (50) [[link]](https://leetcode.com/submissions/detail/2006879030/)
+5. `Sort List` (148) [[link]](https://leetcode.com/submissions/detail/2006889706/)
 6. `Merge k Sorted Lists` (23)
 
 ## Completion Checklist
@@ -174,6 +174,5 @@ You are ready for the next topic when:
 
 Fill this section after solving problems.
 
-- Example: I rewired `current->next` before saving the old next pointer and lost
-  the rest of the linked list; I fixed it by always storing `next_node` first in
-  pointer-changing loops.
+- `Pow(x, n)` (50): Using the binary search approach greatly reduces the number of recursive calls.
+- `Sort List` (148): Merge sort, O(n log n), instead of bubble sort, O(n²), for single linked list sotring.

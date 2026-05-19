@@ -149,6 +149,4 @@ You are ready for the next topic when:
 
 Fill this section after solving problems.
 
-- Example: I mixed `[0, n)` and `[1, n]` indexing in one loop and skipped the
-  last element; I fixed it by writing the valid index range beside the loop
-  before coding.
+- 

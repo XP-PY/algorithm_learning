@@ -182,6 +182,4 @@ You are ready for the next topic when:
 
 Fill this section after solving problems.
 
-- Example: I stored raw values instead of indices in a sliding-window problem,
-  so I could not tell when an element left the window; I fixed it by storing
-  indices and using them to remove expired elements from the front.
+- 

@@ -202,6 +202,4 @@ You are ready for the next topic when:
 
 Fill this section after solving problems.
 
-- Example: I wrote the recursive calls in the wrong order and thought I was doing
-  inorder traversal while actually doing preorder; I fixed it by writing the
-  intended visit order in words before coding.
+- 

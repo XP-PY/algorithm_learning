@@ -169,6 +169,4 @@ You are ready for the next topic when:
 
 Fill this section after solving problems.
 
-- Example: I forgot to pop the last choice after the recursive call, so later
-  branches reused state from earlier branches; I fixed it by checking every
-  choose step has a matching undo step right after recursion returns.
+- 

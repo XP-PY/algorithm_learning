@@ -165,5 +165,4 @@ You are ready for the next topic when:
 
 Fill this section after solving problems.
 
-- Example: I used `unordered_map` iteration order as if it were sorted output;
-  I fixed it by sorting the final result explicitly when output order mattered.
+- 
