@@ -159,7 +159,7 @@ Suggested order:
 3. `Merge Two Sorted Lists` (21) [[link]](https://leetcode.com/submissions/detail/2006871785/)
 4. `Pow(x, n)` (50) [[link]](https://leetcode.com/submissions/detail/2006879030/)
 5. `Sort List` (148) [[link]](https://leetcode.com/submissions/detail/2006889706/)
-6. `Merge k Sorted Lists` (23)
+6. `Merge k Sorted Lists` (23) [[link]]()
 
 ## Completion Checklist
 
